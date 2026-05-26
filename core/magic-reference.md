@@ -8,7 +8,7 @@
 
 These three principles must be satisfied for every magical act. Weave them into the sensory detail, cost, and method of any spell.
 
-### 1.1 The Law of Conservation — *“The Toll”*
+### The Law of Conservation — *“The Toll”*
 Magic is never free. Energy transfers, it does not vanish. Show the cost clearly.
 
 - **Internal Price:** Describe physiological sacrifice. A fireball leaves the caster’s breath fogging, skin ice-cold, trembling with hypothermia. Lifting a boulder snaps a metacarpal. Telepathy causes a nosebleed or blinding migraine. *Never* show a caster throwing power around without an immediate, proportional physical drawback.
@@ -17,26 +17,6 @@ Magic is never free. Energy transfers, it does not vanish. Show the cost clearly
 **Prose prompt examples:**
 > *She hurled the lightning bolt, and instantly her lips turned blue. Her teeth chattered as frost spider-webbed across her robes.*
 > *The opal flared, drawing every whisper of warmth from the summer air until the grass crunched underfoot with rime, and then the gate shattered.*
-
-### 1.2 The Law of Sympathy — *“Like Produces Like”*
-Magic connects through symbolic or physical links. No remote spell works without a clear tether.
-
-- **Similitude (Imitative):** A poppet, a drawing, a model. To break a bridge, a mage twists a twig formed into an arch. Show the effigy taking the damage. Action on the symbol equals action on the target.
-- **Contagion (Corporeal link):** A strand of hair, a drop of blood, a baby tooth, a torn piece of a soldier’s letter. The more intimate the token, the more inescapable the spell. When a curse strikes, describe the lingering link—the lock of hair smoking, the blood sample boiling in its vial. Without such a link, distant magic is wildly inaccurate or impossible.
-
-**Prose prompt examples:**
-> *He pressed his thumb into the clay figure’s knee, and across the city, the magistrate collapsed with a scream, clutching a joint that was not broken a moment before.*
-> *Because she had his locket with the single coiled hair inside, her seeking spell found him unerringly, even through the storm.*
-
-### 1.3 The Law of True Names — *“The Nominal Bound”*
-Complete control requires a secret, primordial name. This is not a label—it is the acoustic blueprint of a thing’s soul. Treat True Names as precious, dynamic, and dangerous.
-
-- **Absolute Dominion:** Speaking a True Name compels. The object or being cannot resist. A rock *will* crumble, a flame *will* extinguish, a person *must* freeze or obey. The prose should feel invasive, like a key turning in a lock deep inside reality.
-- **Instability:** A True Name changes. A person’s name shifts after trauma, revelation, or profound growth. A forest’s name might alter after a fire. Mages spend years scrying these changes. Show their vulnerability when a once-known name falters, the spell sliding off like a dull blade.
-
-**Prose prompt examples:**
-> *She spoke the river’s true name, a sound like a child’s first laugh ground into granite, and the waters parted against their own nature.*
-> *The name he had captured a decade ago was no longer hers. It left his lips as a dead syllable, and her mocking smile never wavered.*
 
 ---
 
