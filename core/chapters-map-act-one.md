@@ -1,3 +1,4 @@
+```markdown
 # Act One: The Maze Expedition
 
 ## Structure Overview
@@ -281,4 +282,264 @@ She doesn't push. But she looks at the runes for a long moment, her thumb tracin
 
 The cold iron sword cuts through the creature like it's cutting through water. The thing screams—a high, chittering shriek that echoes off the stone—and dissolves into grey sludge. Kael flicks the residue off his blade with a single precise motion. He doesn't speak. He doesn't even look at the corpse. He just resumes his position, sword still drawn, eyes scanning the darkness.
 
-Sera's hand is on her own knife—she's drawn it without Reks seeing, the blade glinting in the cold-glow of her lamp. She sheathes it slowly. Her thumb is tracing
+Sera's hand is on her own knife—she's drawn it without Reks seeing, the blade glinting in the cold-glow of her lamp. She sheathes it slowly. Her thumb is tracing circles against her thigh, over and over, uncontrolled. Her face is calm. Her hand is not.
+
+"First one's always the worst," Reks says. It's not true. The first one is never the worst. But she doesn't know that, and he's offering her something—a lie, a comfort, a crack in his own armor to match hers.
+
+She looks at him. The silver eyes are unreadable. But she says, quietly: "Thank you."
+
+Kael makes a sound behind them—not quite a cough, not quite a laugh. The first sound he's made since they entered the Maze. Reks doesn't know what it means. He's not sure Kael does either.
+
+### Emotional Arc
+
+The adventure begins in earnest. The dynamic is established: Reks leads, Sera second-guesses, Kael protects, and underneath the bickering, something unspoken is building pressure. The Maze is alive, and they're in its throat now, and the only way out is deeper.
+
+---
+
+## Chapter Seven: The First Watch
+
+**Word Count:** ~3,000
+**POV:** Reks
+**Setting:** A Maze waystation—an old maintenance chamber—deep in the Warrens, night
+
+### What Happens
+
+They stop to rest. The deeper levels are still hours away; the Maze is vast, and even Reks hasn't mapped what lies below the Warrens' lowest basements. They'll need to be fresh for the descent into unmapped territory.
+
+They make camp in a chamber that was once a cistern control room—dry now, the ancient pipes rusted to dust, the walls covered with more of those dead runes. Kael takes first watch. Sera reviews her notes by the light of a Dominion cold-glow crystal, its pale blue light casting strange shadows. Reks sharpens his knife. The silence stretches.
+
+And then, because Sera can't seem to leave a silence alone when Reks is in it, she starts asking questions. About his grandmother. About the village. About the gift. She's not cruel about it—not the clinical precision she used in the teahouse. She's almost... curious. Like she genuinely wants to understand.
+
+Reks deflects. Sera pushes. They argue. And in the middle of the argument, something shifts—a moment of honesty that neither of them planned.
+
+### Key Moments
+
+**The question that lands.** Sera is reading her notes—or pretending to. The cold-glow crystal flickers. She says, without looking up: "Do you actually want revenge? Or do you just think you're supposed to?"
+
+The question hits Reks like a wave. He's been running on revenge as a fuel for so long he's forgotten to check if the tank was empty. It's what you're supposed to want, after a purge. It's what the songs say. The last survivor, seeking vengeance. The blood debt. The old Frostmark code. But when he tries to imagine finding the men who burned the village—tracking them down, putting a knife to their throats—he doesn't feel anger. He doesn't feel satisfaction. He feels tired.
+
+He doesn't answer Sera's question. The silence is the answer.
+
+**Sera's almost-confession.** She doesn't tell him about Maris. But she tells him something. She's still not looking at him—her eyes fixed on the wall, on the dead runes, on something that isn't in the room. Her voice is quieter than he's ever heard it. "I had a sister. She believed in things. Magic, mostly. The idea that it could be studied. Understood. That it didn't have to be suppressed or controlled—just... known. She argued with the Magisterium. She asked too many questions. One day she was gone. I was sixteen. I never found out what happened to her."
+
+She pauses. Her braid has come loose at the end—strands of black hair falling against her neck. She doesn't tuck them back. "The Dominion's file on her says 'disappeared.' That's not a classification. That's an erasure. She wasn't disappeared. She was silenced. And I've spent twelve years trying to find out why."
+
+Reks watches her. The whalebone pendant is in his pocket—he still hasn't returned it—and he wonders if she knows. If she can feel its absence. If the confession would be happening if the pendant were still warm against her sternum, still singing with farmor's voice and Sera's secrets.
+
+"Why are you telling me this?" he asks.
+
+She doesn't answer for a long time. Then she says: "Because you're the first person I've met who might understand. Your family was silenced too. Your gift was erased. If I can find what's in the vault—if your grandmother left something behind—maybe it explains what happened to both of us."
+
+She looks at him. The silver eyes are unguarded—just for a moment, just for a breath. Then the mask slams back down. "That's not operational information. That's not part of the contract. Forget I said it."
+
+"Already forgotten."
+
+"Good."
+
+"Good."
+
+Neither of them means it.
+
+**The thumb tracing circles.** Reks finally mentions it. He's watching her hand—the way her thumb moves against her palm, a slow circle, over and over. "You do that when you're nervous."
+
+She goes still. Completely still. Even the thumb freezes mid-circle. "I'm never nervous."
+
+"Right. That's why you stopped."
+
+She looks at him. He looks at her. Neither of them speaks. The cold-glow crystal flickers. Kael, in the doorway, makes a sound that might be a cough and might be a laugh—the second sound he's made since they entered the Maze. Sera's jaw tightens. But she doesn't look away from Reks. And her thumb doesn't move. And the silence between them is charged with something neither of them will name.
+
+"Get some sleep," she says finally. "Second watch is yours."
+
+"I know when my watch is."
+
+"Good."
+
+"Good."
+
+Neither of them moves for a long time.
+
+### Emotional Arc
+
+The armor cracks—on both sides. This is the chapter where antagonism starts to become something else, where the transactional frame starts to feel like a pretense, where two people who've been alone for a very long time recognize each other across the dark. Neither of them names it. Neither of them has to. The romantic tension is no longer a hum under the surface. It's a note, sustained, waiting to resolve.
+
+---
+
+## Chapter Eight: The Unmapped Depths
+
+**Word Count:** ~4,000
+**POV:** Reks
+**Setting:** The transition from the Warrens to the true Maze—the sub-level that shouldn't exist
+
+### What Happens
+
+They descend past the Warrens' lowest point, into territory Reks has never mapped because no one who ventures this deep comes back to draw charts. The architecture changes—older, stranger, the stone fitted without mortar, the angles slightly wrong, as if the Maze was built by something that didn't think in straight lines. The darkness is thicker here. The silence is deeper. The Maze is awake. Not alive, exactly, but aware. The walls hum at a frequency just below hearing. The air tastes like old metal and older magic. The cold-glow crystal flickers more often now. Even Kael seems affected—his grip on his sword tighter, his silence more watchful.
+
+Sera's intelligence guides them to a collapsed section—a cave-in that's centuries old. Behind it, according to her sources, is the entrance to the Corway sub-level. Reks' Rune-Sight confirms it: the stone beyond the collapse glows with familiar threads, the signature of Corway rune-work. His great-grandfather's hand. His grandmother's hand. The whole lineage, compressed into stone. The threads are bright and clear, untouched by time, humming with a frequency that matches his own heartbeat. The Corways built this. The Corways sealed this. He's the first of his blood to stand here in seventy years.
+
+The collapse is impassable by normal means. But Reks' Rune-Sight shows him the stress-fractures, the points where the stone remembers the impact and wants to crack along those lines. With Kael's strength and Reks' guidance, they clear a passage—slowly, carefully, the stone groaning around them. The Maze doesn't want to let them through. The Maze is fighting them. But the Corway threads are stronger, and Reks follows them like a lifeline, and the passage opens.
+
+### Key Moments
+
+**The descent into unmapped territory.** The transition from the Warrens to the true Maze is visceral. The temperature drops. The darkness becomes absolute—the cold-glow crystal barely illuminates a few feet ahead. The walls are no longer brick or stone; they're something else, something that looks like obsidian but feels warmer to the touch, something that seems to absorb light rather than reflect it. The runes on the walls are no longer dead. They pulse with a faint blue glow that matches the Corway threads. They're not Frostmark work. They're older. Much older. Reks' Rune-Sight screams at him to turn back, but he keeps walking. The threads are pulling him forward. The past is a harpoon line, and it's been coiled around him since the fire, and he's done fighting it.
+
+Sera is more affected than she lets on. She's reciting something under her breath—not the Dominion protocols, something else, something older. A language Reks doesn't recognize. Her braid has come half-undone, hair falling around her face, and she hasn't fixed it. She hasn't even noticed. Her thumb traces constant circles against her thigh. She's afraid. She's trying not to show it. Reks doesn't comment. He just keeps walking, and she keeps following, and the silence between them is no longer hostile. It's almost... trusting. They're in this together now. Neither of them knows what "this" is.
+
+**The door.** Beyond the collapse, they find it: a door of black stone, carven with Corway runes. The runes are still alive. They pulse with a cold blue light that matches Reks' eyes, that matches the threads in his vision, that matches the heartbeat of the Maze itself. The door has no handle, no lock, no visible mechanism. Just a central carving—a whale, sounding, its flukes disappearing into dark water—and a single word in Old Frostmark: *Remember.*
+
+The word hits Reks like a physical blow. It's the house motto. It's farmor's phrase. It's the thing Sera said at the teahouse: *the pendant remembers.* This door was built for him. For his blood. For the last Corway.
+
+Sera is staring at the door, her silver eyes wide. "Can you open it?"
+
+"I don't know."
+
+"But you're going to try."
+
+It's not a question. Reks puts his hand on the door. The stone is cold. The runes are warm. The whale carving seems to move under his palm—not physically, but in the threads, in the Rune-Sight, in the memory woven into the stone. The world dissolves into light.
+
+**The opening.** Reks' Rune-Sight activates fully, involuntarily, and the world dissolves into threads. He sees the door's history—his great-grandfather carving it, sealing it, whispering a warning he can't quite hear. *Do not wake... bound by blood... the chorus hears...* He sees his grandmother touching this same stone, decades later, leaving a message he can't quite read. A face. A name. A warning or a blessing. He sees the years between—the Maze growing around the door, the stone shifting, the seal holding. And he sees Sera, standing behind him, her hand half-raised as if to stop him or touch him, her face unguarded for the first time since they met. In the threads, her expression is not the mask. It's something else. Something that looks like hope and fear and desperate longing all tangled together. Something that looks like the way she said *Maris* in the pendant's memory. Something that looks like the way Reks feels when he touches his amulet.
+
+The door opens. The stone flows aside like water, silent and smooth, revealing a passage beyond. Cold air rushes out—ancient air, air that hasn't been breathed in seventy years. The darkness is absolute. The silence is total. The only light is the blue glow of the Corway runes, pulsing like a heartbeat, fading into the depths.
+
+**The hesitation.** This is the point of no return. Sera's intelligence says the passage leads to a vault, and the vault contains whatever the Corways buried. But Reks' Rune-Sight is screaming—the threads beyond the door are tangled, wrong, older than his family's work. Something else is down there. Something the Corways didn't build. Something they were trying to contain. The blue light pulses. The whale carving watches him with its stone eye. *Remember.*
+
+He tells Sera what he sees. The tangled threads. The wrongness. The sense that the vault isn't the bottom—that there are deeper levels still, levels that predate the Corways, predate humanity, predate everything. He tells her the door was meant to keep something in, not keep something out. He tells her they might not come back.
+
+Sera listens. For the first time, she doesn't argue. She doesn't deflect. She doesn't try to reframe it as a transaction or a calculation. She just listens, her silver eyes fixed on his face, her braid undone, her thumb still tracing circles against her thigh.
+
+"Do we go forward?" she asks. Not a command. A question. She's asking him.
+
+Reks looks at the passage. He looks at the whale carving. He looks at Sera—her hair loose, her eyes unguarded, her hand half-raised toward him and then lowered, like she thought about touching him and stopped herself. He thinks about the village. The fire. Mote the cat walking out of the ash. Farmor's voice singing in the pendant. The sea remembers. The pendant remembers. He remembers.
+
+He says yes. Not because he trusts her. Not because he wants revenge. Not because the Dominion is paying him or the contract requires it. He says yes because whatever's down there, farmor touched this door. Farmor left a message. And the sea remembers.
+
+He steps through the door. Sera follows. Kael follows. The passage swallows them.
+
+### Emotional Arc
+
+The threshold. Reks chooses to go forward, knowing the risks, knowing Sera's hiding something, knowing the Maze is more dangerous than she admitted. He chooses it anyway. The past isn't a wake. The past is a door, and he's opening it, and Sera is walking through it beside him. The romantic tension is no longer a note—it's a chord, complex and unresolved, waiting for the next movement.
+
+---
+
+## Chapter Nine: The Sealing
+
+**Word Count:** ~3,500
+**POV:** Reks
+**Setting:** The passage beyond the Corway door, into the vault antechamber
+
+### What Happens
+
+They enter the passage. The door doesn't close behind them immediately—it waits, as if giving them one last chance to turn back. The passage is narrow, smooth-walled, the blue light of the Corway runes guiding them forward. The air gets colder. The silence gets deeper. Reks' Rune-Sight is a constant pressure at the edge of his vision—the tangled threads ahead, the wrongness, the sense that something is waiting.
+
+The passage opens into an antechamber. Small, circular, lined with more Corway runes. These runes aren't wards. They're warnings. Reks can read fragments: *Do not wake... bound by blood... the chorus hears... the sleeper dreams...* The words make his skin crawl. Farmor never talked about this. The family stories never mentioned a sleeper. The heresy charge—Lord Corway accused of reading the Deep Chorus—suddenly makes a different kind of sense. What if he wasn't trying to exploit it? What if he was trying to keep it contained?
+
+In the center of the chamber is a pedestal, and on the pedestal is a map—a carving of the Maze's deepest levels, showing the route to the vault. But it also shows something else: the vault isn't the bottom. There are deeper levels still. Levels that predate the Corways, predate humanity, predate everything. The vault is just the first door. The vault is a gate. And the gate is meant to stay closed.
+
+Sera takes the map. Her hand is shaking—the first uncontrolled movement Reks has seen from her. She stares at the carving, her silver eyes tracing the lines, and she whispers something in a language Reks doesn't recognize. Not Dominion. Older than that. A language she shouldn't know. *Maris' language*, Reks thinks, and doesn't know why he thinks it.
+
+And then the door closes.
+
+Not metaphorically. The Corway door seals behind them—the stone flowing back into place, the runes flaring once and going dark. The blue light gutters and steadies. The antechamber is sealed. They're trapped. The only way out is forward, through the vault, through whatever's waiting.
+
+### Key Moments
+
+**The antechamber.** The room is small and round and feels like a tomb. The walls are covered in runes—not just warnings, but names. Corway names. Generations of them, carved into the stone, a family tree rendered in blue light. Reks finds his grandmother's name. His great-grandfather's. His own name is not there—the carving stops with the generation before him, the generation that was purged. But there's a space. A blank section of stone, waiting. As if whoever carved the names knew there would be a last Corway, and left room for him.
+
+Sera is reading the runes too, her lips moving silently. She knows more Old Frostmark than she's admitted. Another lie by omission. Reks is too tired to be angry about it. He's standing in a room full of his dead family's names, and the door is sealed, and the only way out is forward, and the woman beside him has been lying since the moment they met. But she's also been telling the truth, in fragments, in cracks. The sister. The book. The question that landed. *Do you actually want revenge?* She's not just an antagonist. She's not just a love interest. She's something else—something Reks doesn't have a word for. Someone who might understand. Someone who might be as lost as he is.
+
+**The revelation.** Reks confronts her. The map in her shaking hand. The language she whispered. The fact that she knew the door might seal—he can see it in the way she's not surprised, in the way she's already calculating the next move instead of panicking. She knew. She knew and she didn't tell him.
+
+"You knew the door might seal."
+
+She doesn't deny it. "I knew the door might seal. I didn't know it would. The intelligence was incomplete. It usually is." Her voice is steady, but her thumb is tracing frantic circles against the map, over and over, uncontrolled. "I didn't tell you because you wouldn't have come."
+
+"So you trapped me."
+
+"I gave you a choice. You made it. The door is a consequence of the choice—not a betrayal."
+
+"That's the worst kind of semantics, Vaunt."
+
+"I know. I'm very good at it."
+
+He's furious. Not just because she lied—because he let himself forget she was dangerous. He let the bickering feel like trust. He let the moment in the waystation feel like connection. He let himself think she was crew. Stupid. Stupid. The ship was never safe. She was never crew. She's the owner, the employer, the woman who hired a guide and didn't mention the guide might not come back.
+
+But underneath the fury, there's something else. She's trapped too. She walked through the door knowing it might seal. Whatever she's looking for—the artifact, the truth about her sister, the thing that glows in the pendant with a warmth that isn't operational—it's worth the risk. It's worth being trapped. It's worth dying for. Reks understands that kind of desperation. He's intimate with it. He's been running on it for seven years.
+
+**The counter-revelation.** Reks, still furious, still feeling the betrayal like a rope burn, asks the question he hasn't asked: "Why? What's in the vault that's worth trapping yourself down here with me?"
+
+And Sera, after a long silence, tells him a piece of the truth. Not the whole thing. Not about Maris—not directly. But enough.
+
+"The Dominion thinks it's a weapon. Something your great-grandfather built, something that could control the Deep Chorus instead of just reading it. They sent me to acquire it. Standard acquisition: find the asset, secure the asset, terminate any witnesses."
+
+She pauses. Her thumb stills against the map. "But I think—I think it's something else. Something my sister was looking for, before she disappeared. Something your grandmother was trying to protect. The Corways weren't heretics. They weren't trying to exploit the Chorus. They were trying to keep it contained. Your great-grandfather didn't build a weapon. He built a prison. And whatever's in the vault has been sleeping for seventy years, and if the Dominion gets it, they won't contain it. They'll try to use it. And I don't know if it can be used. I don't know if it can be controlled. I don't know anything except that my sister died trying to understand it, and your family died trying to guard it, and if we don't reach the vault first, someone else will. Someone who won't hesitate to wake what's down there."
+
+She meets his eyes. The silver is unreadable. The mask is back in place. But her voice, when she speaks again, is barely above a whisper. "So yes, Corway. I knew the door might seal. I came anyway. The only way out is through. You can hate me—you should hate me—but you're going to have to do it while walking forward. I need what's in the vault. And I need you to reach it. Those are the only truths that matter."
+
+**The acceptance.** Reks doesn't forgive her. He doesn't trust her. But she's right—the only way out is forward. The door is sealed. The runes are dark. His family's names are glowing on the walls, watching him, waiting. Farmor's name. Great-grandfather's name. The blank space where his own name should be. The whale carving on the door, sounding into the dark. *Remember.*
+
+He picks up his pack. He checks his knife. He looks at Sera—her hair completely undone now, falling past her hips in a dark curtain, the silver of her eyes unreadable, the whalebone pendant still in Reks' pocket, still singing, still warm. He doesn't give it back. Not yet. Maybe not ever.
+
+"When we get out of this," he says, "you're going to tell me everything. The whole ledger. No more blank spaces."
+
+She doesn't agree. She doesn't disagree. She just nods, once, and folds the map, and turns toward the passage that leads deeper. "Then we'd better get out of this."
+
+**The closing image.** The antechamber behind them is dark now, the door a solid wall of black stone, the names fading into shadow. Ahead, the passage descends into deeper dark, where the blue light doesn't reach, where the threads are tangled and wrong, where something old is stirring. Reks follows Sera into it, his Rune-Sight flickering at the edges, the memory-threads of his ancestors weaving through the stone like a net—or a trap. Kael brings up the rear, his cold iron sword drawn, his silence heavier than ever. The Maze closes around them. The vault waits. The sleeper dreams. Act One ends.
+
+### Emotional Arc
+
+Betrayal, fury, and a forced reconciliation. Reks and Sera's relationship has been cracked open—the transactional frame is shattered, the real stakes are on the table, and they're trapped together in the dark with nothing but each other and whatever's waiting in the vault. The romantic tension isn't resolved; it's pressurized. Sera's confession—partial, guarded, but real—changes the shape of their alliance. She's not just an antagonist. She's not just a love interest. She's someone who's lost the same things he's lost, who's been running from the same silence, who's willing to trap herself in the dark for a chance at the truth. He doesn't trust her. But he understands her. And understanding, in the Maze, might be more dangerous than trust.
+
+---
+
+## Act One Summary
+
+| Chapter | Setting | Word Count | Key Event | Genre Function |
+|---|---|---|---|---|
+| 1: The Hunt | Helspine waters | 3,500 | Whale hunt; Reks uses Rune-Sight to save Boat One | **Action cold-open:** showcase abilities, establish tone, visceral stakes |
+| 2: The Final Berth | Midden docks | 2,500 | *Grey-Eye* docks; Captain warns Reks | **Transition:** safety to danger, sea to shore |
+| 3: The Shaded Market | Shaded Market | 3,500 | Gerrit delivers Sera's message | **Suspense:** the trap closes, the past finds him |
+| 4: The Broker | Silver Leaf teahouse | 4,000 | Sera's offer; Reks accepts | **Thriller/Romance:** negotiation as duel, first meeting of antagonists/love interests |
+| 5: The Night Before | Rented room | 2,500 | Reks remembers the fire; decides not to run | **Character:** the wound, the motivation |
+| 6: The Descent Begins | Warrens/Maze | 3,500 | Enter the Maze; first threat; bickering | **Action/Suspense:** new environment, first combat, dynamic established |
+| 7: The First Watch | Maze waystation | 3,000 | Honest conversation; Sera mentions her sister | **Romance:** armor cracks, the first real connection |
+| 8: The Unmapped Depths | Deep Maze | 4,000 | The Corway door; Reks opens it | **Suspense/Thriller:** the threshold, the legacy revealed |
+| 9: The Sealing | Corway antechamber | 3,500 | Door seals; Sera's partial truth; forced alliance | **Thriller/Romance:** betrayal, fury, the point of no return |
+
+---
+
+## Pacing Map
+
+```
+ACTION    ████████░░░░░░░░░░░░░░░░░░░░░░░  Ch 1: The Hunt
+TRANSIT.  ░░████░░░░░░░░░░░░░░░░░░░░░░░░░  Ch 2: The Final Berth
+SUSPENSE  ░░░░████████░░░░░░░░░░░░░░░░░░░  Ch 3: The Shaded Market
+THRILLER  ░░░░░░░░░░██████████░░░░░░░░░░░  Ch 4: The Broker
+CHARACTER ░░░░░░░░░░░░░░░░░░████░░░░░░░░░  Ch 5: The Night Before
+ACTION    ░░░░░░░░░░░░░░░░░░░░░░██████░░░  Ch 6: The Descent Begins
+ROMANCE   ░░░░░░░░░░░░░░░░░░░░░░░░░░████░  Ch 7: The First Watch
+SUSPENSE  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██  Ch 8-9: The Unmapped Depths / The Sealing
+```
+
+---
+
+## Tension and Theme Tracking
+
+**The Romantic Arc (Act One):**
+- Chapter 4: First meeting—antagonism, fascination, transactional frame established. Sera's hair, her hands, the thumb tracing circles. Reks notices everything. Neither names it.
+- Chapter 6: Bickering as intimacy; mutual competence acknowledged. Sera's backhanded compliments. Reks' deflection. The first silence that's heavier than the arguing.
+- Chapter 7: The first real conversation. Armor cracks on both sides. The sister. The question about revenge. The thumb circle noticed and named. Sera unguarded for a breath.
+- Chapter 8: Sera asks instead of commands; Reks notices her hand half-raised to touch him and then lowered. The door opens. They step through together.
+- Chapter 9: Betrayal resets the trust, but the attraction is still there, now tangled with fury—more volatile, more honest. Sera's partial confession. Reks' ultimatum. They walk forward together. The tension is pressurized, unresolved, waiting for Act Two.
+
+**The Past Arc (Act One):**
+- Reks moves from running from the past (Ch. 1-2) to being hunted by it (Ch. 3) to facing it voluntarily (Ch. 4-5) to physically entering it (Ch. 7-9).
+- The wake metaphor breaks down: the past isn't behind him, it's under him, around him, in the stone. The harpoon line metaphor replaces it. He's hooked. He's been hooked since the fire. The door just pulled it tight.
+
+**The Trust Arc (Act One):**
+- Reks and Sera's relationship cycles from transaction (Ch. 4) to friction (Ch. 6) to almost-trust (Ch. 7) to shared purpose (Ch. 8) to betrayal and forced alliance (Ch. 9).
+- The real trust hasn't happened yet. That's for Act Two. But the pieces are in place: she told him about Maris. He told her about the fire. They're both carrying dead families and forbidden names and gifts that feel like curses. They're mirrors. They just don't know it yet.
+
+**The Mystery Arc (Act One):**
+- What's in the vault? Sera thinks it's a prison, not a weapon. The Corways were guardians, not heretics. The Deep Chorus is real, and something connected to it is sleeping in the Maze. The map shows levels below the vault—levels that predate humanity. The sleeper dreams. The chorus hears.
+- What happened to Maris? She was looking for the same thing Sera's looking for. She disappeared twelve years ago. Her book—the rune-theory treatise—is in Sera's locked drawer. Her note in the margin says *the threads aren't static, they're alive.* She knew something. The Dominion silenced her for it. Sera's been trying to find out why ever since.
+- Who burned the village? Sera knows. She's promised to tell Reks in exchange for his help. But she hasn't told him yet. The information is leverage. The lever hasn't been pulled.
+```
