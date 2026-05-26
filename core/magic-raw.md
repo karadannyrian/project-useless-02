@@ -1,5 +1,3 @@
-help me develop the martial counterpart 
-
 ## The Core Laws of Magic
 
 ### The Law of Conservation (The Toll)
