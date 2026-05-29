@@ -125,8 +125,9 @@ She went with him, still talking.
 Above, footsteps found the stairs.
 
 ---
+
 ---
-*ARCHIVE DISTRICT MAINTENANCE REQUEST
+ARCHIVE DISTRICT MAINTENANCE REQUEST
 Sub-Basement Level C
 Filed 11th Day, Rainfall Quarter
 
@@ -141,5 +142,4 @@ Recommend closure of sub-basement access until source identified.
 Request denied.
 
 — Facilities Clerk Ors Pell
----
 
