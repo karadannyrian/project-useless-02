@@ -38,7 +38,7 @@ She reached for one of the cylinders.
 
 Six was already moving—sideways, toward the food stall at his right, iron brackets, iron frame, the whole thing heavy with it—
 
-Lightning stirs in his chest. Not to attack. To push.
+He let the current in just enough to find the iron.
 
 He found the iron in the stall and shoved.
 
