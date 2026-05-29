@@ -123,23 +123,3 @@ He started moving.
 She went with him, still talking.
 
 Above, footsteps found the stairs.
-
----
-
----
-ARCHIVE DISTRICT MAINTENANCE REQUEST
-Sub-Basement Level C
-Filed 11th Day, Rainfall Quarter
-
-Repeated complaints regarding vibration beneath the eastern stacks during late hours.
-
-Night custodians report audible movement below the foundation grid despite sealed access orders remaining in effect.
-
-Inspection deferred pending Council review due to cost of excavation and likelihood of collapsed pre-Treaty infrastructure.
-
-Recommend closure of sub-basement access until source identified.
-
-Request denied.
-
-— Facilities Clerk Ors Pell
-
