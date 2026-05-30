@@ -1,5 +1,4 @@
 # Chapter Fourteen — The Road Out
-### (Option 1: Cliffhanger)
 
 ---
 
