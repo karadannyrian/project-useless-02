@@ -2,70 +2,82 @@
 
 ---
 
-Corvin's quarters were high in the Eyrie—stone and iron, the smell of cold altitude, windows that looked down on Midden through the morning fog. Dawn light across the desk. A fire already lit in the hearth.
+Corvin Vell's quarters were high in the Eyrie—stone walls, iron fittings, windows that looked down over Midden in the grey light of early morning. The city was still. The river was a dark line through it.
 
-He looked up when they came in. Then he looked at the state of them—Dreya's arm, Six's coat, the accumulated evidence of a week neither of them had chosen—and got to his feet.
+Corvin hadn't been expecting them. He'd opened the door at Six's knock and gone very still, and the three of them stood like that for a moment before Six put the ledger on the desk.
 
-"I didn't think—" He stopped. "You're alive."
+Corvin picked it up. Read the first page. Turned to the second.
 
-Six put the ledger on the desk.
+His face went grey the way paper goes grey when it's been wetted and dried wrong—not pale exactly, just drained of whatever had been keeping the color there.
 
-Corvin looked at it. Looked at the charred edges. Picked it up and opened it to the first page, then the second, then stopped on a third. His face went through several things and arrived at grey.
+"You need to leave." He set the ledger down. "Now."
 
-"You need to leave." His voice had changed quality. "Now."
+Dreya said: "You weren't trying to expose the conspiracy."
 
-"You weren't trying to stop it," Dreya said.
+Corvin looked at her.
 
-She said it the way she said things that had been established as fact some time ago and were only now being spoken aloud. She was leaning against the wall nearest the door, her good arm at her side, her wounded shoulder pulled slightly forward. She looked tired and precise and almost—not quite—pitying.
+"You wanted the ledger because Councilor Ashford is in it. You were going to use it." She tilted her head—the slightly pitying angle she got when explaining something to someone who should have known better. "Blackmail. A leverage position within the Order. You never intended to stop the coup. You intended to profit from knowing about it."
 
-"The ledger proves the conspiracy exists," she continued. "It proves the armory, the councilwoman's involvement, the timeline. That's not leverage for exposure. That's leverage for extortion. You were going to go to Councilor Ashford with this and ask for something in return for your silence." She paused. "A promotion within the Order, most likely."
+"That's—"
 
-Corvin said nothing.
+"The Empire has a documented policy on blackmailers." Her voice was calm. The same tone she used for structural load-bearing analyses. "They don't negotiate. They don't make exceptions for useful intelligence or sympathetic circumstances. You've given them a reason to want you dead and no reason to want you alive. You've made yourself a liability to both sides of this." A pause. "You were very thorough about it."
 
-"The error is that the Empire doesn't negotiate with blackmailers. It doesn't need to. You have one piece of evidence. They have a continent. If you approach Ashford with this, she tells her handlers, and you become a problem to be resolved." Dreya looked at him for a moment. "You knew about the conspiracy long enough to gather evidence. That makes you a witness. The Empire's policy on witnesses is documented and consistent going back three administrations." The almost-pity was in her tone, not in anything she said directly. "You've doomed yourself. You knew too much before you hired him, and now you know more."
+Corvin's jaw worked.
 
-Corvin's hand moved.
+Six watched his eyes. Dreya's analysis was landing—he could see it landing, the exits closing one by one as she named them. She was right about all of it.
 
-Six tracked the direction before the hand completed its decision—the angle, the fireplace, the ledger on the desk between them—and he was already in motion when Corvin snatched the ledger up and threw it into the hearth.
+She hadn't asked how Corvin had known the ledger existed. How he'd known to send Six to that specific Archive basement in the first place. Someone had told him. Someone above him in whatever arrangement this was. That thread hadn't come up. Six filed it in the column of things Dreya hadn't reached.
 
-Dreya was faster.
+He also noted: underneath the calculation, underneath the exit-search, something older sat in Corvin's face. Something that had been there before Dreya said a word—there when Six put the ledger on the desk and Corvin read the first page and went grey. Not fear of the Empire's policy on blackmailers. Fear of something specific. Something already in motion.
 
-She lunged past him, both hands forward, and the air in the room changed—a sharp pressure shift, the working hitting the room's iron and scattering—her hands corrected through the interference—and the flames in the hearth went flat and dead.
+He didn't know what it was yet. He noted it.
 
-The ledger lay in the cold fireplace. Edges black. Center pages intact.
+Corvin found the door instead.
 
-She picked it up. Her hands were shaking—not just the effort of the cast. Something in her chest had gone wrong briefly, a rhythm off, he could see it in the tight compression of her expression, the way she held herself after as if something had lurched where it shouldn't. She held the ledger anyway and didn't let go.
+"Guards—"
 
-Corvin moved toward the door.
+Six was already between him and it. Two steps. He hadn't decided to move. He'd just moved.
 
-Six was already between him and it. He let Corvin see the sword come to the line of his throat and rest there. Not pressing. Just resting.
+Corvin turned to the fireplace and threw the ledger in.
 
-He looked at the man. The Sentinel who had hired him for a clean job in a basement, who had known what the ledger was and what he intended to do with it. Who had sent him into the Archive and counted on him not coming back informed.
+Six registered: the motion, the fact that he was closer to Corvin than to the fireplace, Dreya's already-moving shape in his peripheral vision.
 
-He could. One movement. Clean.
+She went for the ledger.
 
-He didn't.
+The air in the room changed—a sharp compression, the brief total wrongness of oxygen being pulled from a point source—and the fireplace went dark. Not guttered. Stopped. One moment burning, the next not. The iron grate, the iron fittings on the mantle—he felt them even from across the room, the familiar buzz spiking as she drew on the cast in a space full of iron that didn't want to cooperate.
+
+She pulled the ledger out.
+
+Charred at the edges. The Imperial seals on the ribbon were smoke-darkened. She stood holding it with both hands, and one beat after she had it clear, he heard it: a small involuntary sound from her, like a word starting and stopping. Her hands were shaking. Not from the heat.
+
+He moved to Corvin.
+
+Sword up under his chin—not pressing, just resting there—and Corvin went still, back against the wall, hands at his sides. His face was doing many things at once and none of them were useful to him.
+
+Six looked at him.
+
+He could kill him. The angle was right. Clean. The Eyrie was high enough that the body wouldn't be found quickly. He went through it the way he went through all calculations: cost, return, necessity.
+
+The words came out of his mouth.
 
 "You're not worth the Toll."
 
-His own voice came out low. Slightly hoarse—the way a door sounds when it hasn't been opened in a long time. The words arrived in the room and stayed there. He noticed the sound of them the way he noticed his hands going cold after a cast: a fact, briefly registered, then filed.
+His own voice. Low. Hoarse from days of not being used, slightly foreign against his teeth—he heard it the way you hear your own name said aloud in a quiet room, the sound of a thing that's been absent long enough to seem like it belongs to someone else.
 
-She made a sound.
+He didn't look at Dreya.
 
-Not a word. Just the start of one that didn't come out. He didn't look, but he heard it, and when he stepped back and turned she was looking at him—eyes wide, the charred ledger in both hands, an expression he couldn't read past its surface.
+He lowered the sword.
 
-He kept moving. Toward the door.
+Corvin stayed against the wall.
 
-She came with him.
+Six crossed to Dreya and took the ledger from her hands. She let it go. He checked the damage: edges black, cover darkened, but the pages held. The Imperial seals were legible if you knew what you were looking at. He tucked it back inside his coat.
 
----
+He looked at her.
 
-They were three floors down and into the anchor chain before anyone appeared in the doorway above them.
+Her eyes were on him. Wide. Not afraid—something else, something he didn't have a file for. He held her gaze for one moment and then moved toward the door.
 
-Below: Midden in the morning fog. The river, the Docks, the rooftops. The city that had been trying to kill them for a week and would now have official paperwork behind the attempt.
+She followed.
 
-She hadn't let go of the ledger since the fireplace.
-
-She didn't ask about his voice.
+Corvin said nothing as they left. Behind them: the sound of him sliding down the wall, the slow collapse of a man whose legs had made a decision his mind hadn't authorized yet. That was his problem now.
 
 They went down.

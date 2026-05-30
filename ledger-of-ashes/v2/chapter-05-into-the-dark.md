@@ -18,7 +18,7 @@ He listened to her talk and to the tunnel and to the drip that meant the next le
 
 Left. Then right. Then the long straight passage that smelled like rust.
 
-"The iron bands are original," she said, as he turned right and his sleeve brushed one. "Structural reinforcement. Three centuries of corrosion—the load transferred to the stone eventually, so it's fine, structurally—but the iron's been bleeding into the water table since the second expansion, which would explain certain mineral deposits I noticed near the entrance that don't correspond to the native—"
+He turned right. His sleeve brushed one of the iron bands set into the wall at intervals—cold under the cloth, rough with old rust. He kept moving.
 
 Something moved above them.
 
@@ -40,11 +40,11 @@ There was something else in these tunnels. He'd caught it twice since they'd ent
 
 He kept his pace. Didn't change direction. Let it watch.
 
-"The acoustics work the other way as well," Dreya said. "If you know the geometry, you can trace sound back to its source with reasonable precision. I've been trying to map the echo patterns since we entered. I think there's a junction about forty feet ahead based on—" something smoothed in her voice that shouldn't have smoothed— "based on the way the drip reverberates, which—"
+She was still talking when the other thing fell back—maintaining its distance, patient. He kept his pace and let her.
+
+Her words had changed. Not the content. The rhythm. A consonant running into its neighbor where it hadn't before.
 
 He noticed before she did.
-
-A consonant running into its neighbor. Small. The kind of thing you'd miss if you hadn't been following the rhythm of her words for four hours straight. He kept moving and listened more carefully.
 
 "—the second-century expansion records are incomplete," she continued, "but the architectural evidence suggests at least three distinct building phases, which means the western passages are structurally different from the eastern ones, which is—from the—"
 

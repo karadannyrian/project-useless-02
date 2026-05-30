@@ -22,25 +22,33 @@ He saw the tremor in her hand—the cast requiring more steadiness than she had 
 
 Too close to dodge fully. He caught the edge of it, took a step sideways, and his footing held.
 
+He registered the shooter's movement. Adjusting his angle, closing the distance, the way he always did when the situation had fewer variables. Open platform. No cover. No exits. He'd been patient for days and now there was nothing left to be patient about.
+
+Six registered something else: Dreya couldn't reliably hit what was moving. Not across open stone with a target that never stopped adjusting, not with everything she'd already spent.
+
+He found the beat and pulled the current.
+
+The speed came up—legs first, then chest—and he crossed the platform in less time than he should have had. He got to the shooter at the far edge, got his weight in, drove him back against the platform's lip and the chain post behind it. Pinned him there.
+
+The cardiac flutter arrived without being asked. Not the beat skipping—the beat stuttering, the overcorrection, the heart remembering what this kind of expenditure cost. He pressed his full weight against the shooter's chest and held.
+
+Three seconds. Long enough.
+
 Dreya stepped forward.
 
-Past him. Into the open center of the platform, into the space between Six and the shooter and the grey-haired one and the edge and everything else. Her chin came up. Her hands came up.
+Into the space he'd opened. Past him. Her chin came up. Her hands came up.
 
-He registered her face.
-
-He registered that he wasn't going to stop her.
+He held the shooter against the edge and didn't look directly at her.
 
 The air changed.
 
-Not gradually. All at once—pressure dropping like a door opening in a sealed room, his ears adjusting to a sudden wrongness, the wind around the platform cutting out as the space around her became something else entirely. He felt it in his chest and behind his eyes.
+Not gradually. All at once—pressure dropping, his ears adjusting, the wind cutting out as the space behind him became something else entirely. He felt it alongside the cardiac flutter—two different kinds of wrong in the same chest.
 
 Her hands moved.
 
-The burst came out of her like she'd been holding it for days and the holding was done.
+The burst came out of her and hit the shooter fixed—not mid-step but stationary, the edge directly behind him, all of it concentrated in one direction with nowhere for the force to go but through.
 
-The platform shook. The shooter had been moving—already adjusting, already closing the angle—and the burst caught him mid-step, hit him like a wall of moving nothing, and took him off the edge.
-
-No sound. Not a sound. The canal was dark far below and the air where he'd been standing was just air.
+No sound. Not a sound. The canal was dark far below and the air where he'd been was just air.
 
 Debris swept the platform—grit, loose stone, the grey-haired one knocked sideways, her Medium skittering across the stone behind her. The chain rang.
 

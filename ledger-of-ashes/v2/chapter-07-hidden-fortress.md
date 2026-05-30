@@ -64,6 +64,10 @@ The woman beside the armored figure was in Accordance council robes—deep blue 
 
 Six committed her face. The jaw. The line of her brow. The clasped hands.
 
+He turned the fragments over. A date. Siege components enough to breach a defended position. Barracks for fifty. The armored figure had said *sufficient*—and whatever *sufficient* meant, it wasn't a raid or an extraction. You didn't build trebuchet arms and barracks for fifty for a targeted killing. He didn't know the politics. He knew the shape. Someone intended to put this city under different management on the seventeenth, and the fortress below the council chambers was how they intended to do it before anyone noticed.
+
+He also noted: the armored figure was briefing her. Not the other way around. She was receiving information she didn't already have, which meant she wasn't at the top of the arrangement—she was a link in it. Above her was something neither of them could see from here.
+
 Beside him, Dreya had gone very still.
 
 Her breath changed—caught, held. Her free hand came up and covered her mouth.

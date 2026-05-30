@@ -62,6 +62,10 @@ He stood there.
 
 Not moving.
 
+He looked at the armored figure's face. The acid burn on the left jaw, the pale blue eyes open and finding nothing. Seven chapters of weight—stone vibrations in tunnel floors, rotten wood collapsing, the sound of the shock-maul moving air, a laugh that had come from somewhere behind iron and meant something he'd filed and never fully examined. *Clean thrust.* Two words at the end of all of it, and then the armor on the stone.
+
+He stood with that for a moment.
+
 He heard her behind him—uneven footsteps, the limp she was managing, the sound of someone moving faster than they should. Her hand found his arm.
 
 He didn't shake it off.
