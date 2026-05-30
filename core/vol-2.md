@@ -33,6 +33,8 @@ The volume is structured as a **political thriller** spanning 22 to 28 chapters.
 ***
 
 ### **Sources**
+The information above is drawn from the following seven sources. Each citation number in the text above corresponds to the passage indices provided within these documents:
+
 1.  **Building Volume 2 Premise Concepts** (Gemini Chat)
 2.  **Vaedris: The Shattered Continent**: https://raw.githubusercontent.com/karadannyrian/project-useless-02/refs/heads/main/core/continent.md
 3.  **DREYA CASTELLAN – Complete Character Profile**: https://raw.githubusercontent.com/karadannyrian/project-useless-02/refs/heads/main/core/dreya.md
