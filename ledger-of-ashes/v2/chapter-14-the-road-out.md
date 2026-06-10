@@ -29,3 +29,5 @@ His hand didn't go to his sword.
 Not yet.
 
 The figure stepped forward.
+
+## End of Volume One: Ledger of Ashes
